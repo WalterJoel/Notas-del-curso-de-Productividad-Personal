@@ -1,142 +1,102 @@
 --------
-MÓDULO 2
+MÓDULO 1
 --------
 
-INFRAESTRUCTURA COMO SERVICIO(IAAS)
-- Es el más maduro versus PAAS, SAAS.
-- La virtualización abstrae a las aplicaciones del Hardware.
-- Se puede elegir cpu, memoria, sistema operativo.
+AUTOCONOCIMIENTO ¿QUIÉN SOY?
+------------------------------------
 
-GESTIÓN DE UN SERVICIO CLOUD
+- Una fotografia de nuestro yo, permite conocer mis valores, visión, preferencias, gestión emocional.
+- La visión es el ideal al que tendemos, cual es tu vision de 5 años por ejemplo.
+- Competencias saber hacer y querer hacer.
+- Modelo de Goleman, autoconocimiento, autocontrol, habilidades sociales, empatia. Permite valorarnos en base a ello.
+
+QUÉ DESEO Y CÓMO PUEDO LOGRARLO?
 ----------------------------
-- El control y la gobernanza debe ser automatizado debido a que se podrían desplegar miles de máquinas
-- Vigilar el rendimiento, el consumo.
-- Si surgen incidencias, puedo resolverlo rápido.
-- Troubleshotting(Solución de Problemas).
-- Una vez más, el consumidor no usa un servicio cloud porque esta de moda, sino porque busca ser más competitivo y agilizar, automatizar
-sus procesos.
+- OBJETIVOS DE FINALIDAD: Nuestra meta final, a largo plazo, no dependen al 100% de nosotros, por ejemplo encontrar trabajo en cierta empresa.
+- OBJETIVOS DE RENDIMIENTO: Dependen 100%  de nosotros, a corto o medio plazo, por ejemplo para un empleo, adquirir mayor información, mejorar tu linkedIn, etc.
 
-PROFUNDIZAMOS HDDC y SDDC
+EN QUIÉN ME APOYO
 -------------------------
-- Modelo Hardware Define: Se busca algo muy concreto para cargas de trabajo exigente(puede ser por seguridad, rendimiento, latencias, etc)
-	y por tanto el hardware especifico debe soportar todas estas exigencias.
+- Basicamente un coach te puede guair mucho a partir de la PREGUNTA, y descubrir mucho sobre nosotros. Te ayuda a responzabilizarte de tus acciones.
+- Pregunta enjuiciadora y no enjuiciadora: Por que hiciste eso VERSUS qué razon te llevo a actuar de esa forma. En la primera pregunta uno se defiende y en la segunda piensas algo
+	que no esta muy disponible en tu cabeza.
+- Conocernos a partir de trabajar en grupo, profesionales como orientadores, coaches, a fin de que no sea aburrido y sea motivador.
+- Mentoring vs Coaching : El mentor te orienta en tu desarrollo profesional, es experto en tu misma rama pero mas experimentado y por eso te guia, el coach te ayuda
+	a que te plantees tu mismo tus propias mejoras y que tomes conciencia y lo hace a traves de preguntas no enjuiciadoras.
 
-- Modelo Software Define: Si se utiliza un hardware generico y se busca una plataforma de software permite alojar multiples aplicaciones 
-	siempre y cuando nuestra infraestructura sea eficiente. 
+---------------------------------------------
+MÓDULO 2 MARCA PERSONAL Y REPUTACION ONLINE
+---------------------------------------------
 
-SOFTWARE COMO SERVICIO(SAAS)
-----------------------------
-- Es un servicio cerrado que nos dan al uso, no preguntamos cuanto consume, ni que espacio reservo, ni copas de seguridad de correos, por ejemplo
-	redes sociales, apps corporativas, gestión de fotos, 
-- Abstracción máxima en los servicios de cloud.
-- ***** Cloud First: Si existe un software de SAAS que satisface mis necesidades, la consumo, sino satisface porque mi negocio requiere 
-	algo que no esta disponible, pues bajo un nivel y construyo una aplicacion y servicio pero me abstraigo de la infraestructura,
-	osea no me importa la infraestructura y si tampoco me satisface, bajo un nivel y me construyo una plataforma, una infraestructura
-	a medida para una app en concreta, asi se debe adoptar el modelo cloud.
-PROFUNDIZANDO
--------------
-¿QUÉ ES UNA API?
-Interfaz de programación de aplicaciones, las API son un medio simplificado para conectar su propia infraestructura a través del desarrollo
-	 de aplicaciones nativas de la nube. Por ejemplo la API de Google Maps, que habilita acceso a sus recursos y al ser publica los 
-	 desarrolladores podrian desarrollar aplicaciones.
-	
-ENTONCES PODEMOS DECIR QUE PAAS CONSUME a IAAS MEDIANTE UNA API 
+- Debemos dejar la ** MERITOCRACIA ** "decir siempre yo soy yo soy al que te puedo aportar a ti o a la empresa"
+- Esta idea de marca personal nace en EEUU por los años 90, debemos ser buenos y parecerlo. 
 
-EL NAVEGADOR COMO HERRAMIENTA PRINCIPAL
----------------------------------------
-- El uso de un navegador en clave para mensajear, interactuar incluso para herramientas colaborativas, ofimatica y todo evoluciona al navegador
-	porque necesitamos usar algo cuando queramos y donde queramo. Ademas no hay que actualizar nada, ya sean nuevas versiones, etc. De
-	esta forma el usuario solo accede y listo no debe pensar en cómo se desarrolló que arquitectura ni nada, esa abstracción es importante.
-- El navegador es clave para implementar esa abstracción que debe ser sencilla desde el punto de vista del usuario.
-
-CLOUDBROCKERS
--------------
--El cloud broker es un agente que actúa como intermediario entre el comprador de un servicio de cloud computing y los vendedores de ese
-	 servicio. Esta figura puede ser de utilidad para ahorrar tiempo a la parte compradora en la búsqueda de la solución más adecuada
-	 y que mejor se adapte a los requisitos de su negocio.(INTERMEDIARIO)
-
-**** LO MÁS INTERESENTE DEL EXAMEN ***
---------------------------------------
-Los IaaS basan su servicio en la virtualización de servidores, ya que con un software de virtualizacion crean sobre un servidor fisico
-un monton de maquinas virtuales las cuales serán ofrecidas posteriormente a una serie de clientes donde ellos elegiran las capacidades de
-memoria procesamiento, etc.	
-
--------------------------------- 
-MÓDULO 3 -- "SEGURIDAD EN CLOUD"
---------------------------------
-
-SEGURIDAD EN CLOUD
-------------------
-- Logicamente la información deja de estar en nuestro propio disco duro o memoria pero tenemos un acceso a mejor tecnología de seguridad, cambia y tenemos
-	facilidades como backups, restore con un click.
-- Algunos proveedores de cloud mejor aun replican tu información en multiples máquinas para mantener la seguridad de la data
-- Entender el contrato es clave, leer que pasara con los datos si pasa algo o si es abundante, etc.
-SEGURIDAD A NIVEL DE USUARIO
-----------------------------
-- Nuevas formas de trabajo, más seguridad.
-- Enviar un PDF por ejemplo, se creó para que no se pueda modificar, de igual forma puedo restringir copia, lectura de archivos y ya no necesito PDF.
-- La autenticación desaparecerá porque te puedes loggear con un solo usuario y contra en varias aplicaciones(SINGLE SING ON(GOOGE SUITE PR )) o generadores de token, o la doble
-	autenticación.
-- A nivel de usuario se nota más los cambios con respecto a la seguridad en cloud.
-
-SEGURIDAD A NIVEL DE EMPRESA
-----------------------------
-- Como empresa se debe tener un plan de gestión bien organizado capaz de implementar un sistema de defensa que actue por perímetro es decir por areas o por capas
-	además de contar con técnicas adicionales de seguridad tales como pensar que ya nos atacaron en un caso hipotetico.
-- Tener en cuentas las NORMAS ISO segun las diciplinas como gestion del riesgo, privacidad de la información, etc
-
-- Hoy en dia, no se trata tanto de solo prevenir ataques, sino tener planes de contingencia antes un ataque posible y como evitar la propagacion del ataque, ya que
-	siempre habran ataques y si solo se invierte en prevenir, puede ser muy peligroso.
-- Actualmente ya no se habla de internet, intranet y extraner, porque todo viene siendo reemplazado por cloud y todos estamos conectados a internet.
-- ** Concepto de Micro Segmentación** Es una forma de aplicar seguridad de manera muy granular o muy dirigida ligada a recursos que se quieren proteger.
-- ** Modelo Zero Trust             ** 
-
-
-------------------------------------------------------------------------
-MÓDULO 4 -- "INNOVACIÓN Y TRANSAFORMACIÓN TECNOLÓGICA DESDE EL USUARIO"
-------------------------------------------------------------------------
-
-CÓMO TRABAJABAMOS ANTES Y CÓMO SE TRABAJA AHORA
------------------------------------------------
-- Ahora se quiere maxima disponibilidad de nuestros recursos, es decir que para un trabajador todo este en el navegador, que se encuentre aqui todas sus herramientas
-	que necesita para trabajar
-- Se busca trabajar en tiempo real(por ejemplo google suite en vez de paquete de office). Esto implica un cambio en las personas que estaban acostumbradas a trabajar
-	en el clasico office por ejemplo.
-- Algo interesante y curioso que me gustó, es que el modelo cloud esta volviendo o ya volvio de una u otra forma mas permisibles a los usuarios, puesto que a veces
-	las apps fallan y ya saben que reiniciando la app, todo vuelve a funcionar correctamente(a esto le llaman en el curso una CONSUMERIZACION)
-
-TRABAJAR EN LA NUBE DEMO 
+EL ARGUMENTARIO DE VENTA
 ------------------------
-- Aquí explicaron como usar el google docs, compartir el drive, programar un calendar. 
+- Es una tool para concretar el msje que queremos transmitir.
+- Primero debemos ESCOGER todas las caracteristicas que nos identifican y segundo escoger nuestras caracteristicas DIFERENCIALES, es decir aquellas que nos hacen
+	diferente de otros, tercero esas diferencias las uso en beneficio para mi OBJETIVO y al final DEMOSTRAR ello puede ser en linkeIn etc,.
+GESTIÓN DEL ENTORNO ONLINE
+--------------------------
+- Cuidar el entorno offline, es decir cuidar el cv, entrevistas personales, etc.
+- Los reclutadores nos buscan logicamente en Google.
+- Tener un propio website y organizar la info de uno mismo de forma claramy concisa. Fotos nitidas, enlaces a cv, etc.
 
-------------------------------------------------------------------------
-MÓDULO 5 -- "QUÉ NECESITAN Y BUSCAN LAS EMPRESAS"
-------------------------------------------------------------------------
 
-- Si nos orientamos a servicios tenemos que poner el foco en el usuario o cliente, hay que romper los silos tecnológicos y centrarse en el usuario y el 
-	servicio que queremos dar.
--Siguiente lección
-La movilidad empresarial es mucho más que entregarle un dispositivo móvil a una persona. También es mucho más que, simplemente, renovar plataformas cada 
-	cierto período de tiempo. Consiste en habilitar un proceso y una manera de trabajar en el día a día del negocio. Lo ideal sería trabajar de forma 
-	continua y homogénea. El Cloud afecta a la movilidad como tal y a los servicios que consume el usuario a través de los canales móviles y digitales.
-- Los puestos de trabajo requieren de todas estas consideraciones: ***** facilitar el acceso a un catálogo detallado de procesos, aplicaciones y datos, una experiencia 
-	de usuario óptima (independientemente del dispositivo utilizado) y, por supuesto, la seguridad granular en función del contexto en el que se encuentre
-	 el empleado *****
-- Workplace digital significa que se deben habilitar canales y experiencias digitales para el usuario final bajo un entorno multi-dispositivo y multi-contexto.
+---------------------------------------------
+MÓDULO 3
+---------------------------------------------
 
-                                                                                                                                                                                                                                      
-------------------------------------------------------------------------
-MÓDULO 7  -- "CASOS DE USO"
-------------------------------------------------------------------------
-- En un centro medico, logistica, retail, etc.
+¿HAY ALGO MÁS IMPORTANTE QUE LA COMUNICACIÓN?
+-------------------------------------------------
+- La comunicación digital, ha revolucionado, el consumo de información es distinto, ahora todo es a partir de dispositivos.
+- Comunicacion 2.0 y 3.0 cuya filosofia tiene 3 principios basicos, crear comunidad, compartir informacion y generar conocimiento colectivo.  
 
-------------------------------------------------------------------------
- -- "CONCLUSIONES" --
-------------------------------------------------------------------------
-- ***** Interoperabilidad ***** sigue pendiente en cloud, porque aun es bidireccional osea cliente y proveedor, no se puede migrar datos entre dos proveedores.
-- Star Audit, permite acreditar personas en cloud, certifica a las empresas proveedoras como si fuera una ISO 9000, brinda partners especializados en diversas
-	areas(training, consultoria, auditoria, etc).
+LAS MODAS CAMBIAN, COMUNICACIÓN 2.0
+-----------------------------------
+- Modelo bidireccional, el consumidor es activo, es decir opina y crea contenido porque tiene plataformas necesarias para ello, por ejemplo en redes sociales 
+	hay un emisor y los receptores pueden interactuar, aqui tambien se encuentran las wikis, blogs.
 
-- REPASO DE IDEAS PRINCIPALES
------------------------------
-- CLOUD es un modelo y no una tecnologia pero que si se apoya en la tecnologia, se paga por uso. Se divide en nube privada y nube publica.
+REDES SOCIALES, NO NAVEGUES SIN RUMBO
+--------------------------------------
+- Su avance es imparable, netamente forma parte de lo que es comunicación 2.0
+- Un ** Gestor de la comunidad online, no es mas que un administrador de una pagina de facebook de alguna empresa, impulsando la empresa a partir de redes sociales.
+- El gestor debe definir, vigilar, atender, dinamizar, monitorear los impactos y todo lo que se sube a la red social a fin de construir una reputacion positiva.
+
+LA ESCRITURA EN INTERNET
+------------------------
+- Evitar contenidos irrelevantes en los sitios web de nosotros, por ejemplo poner palabras claves y no ser tan floreros
+- Las oraciones breves hacen que tengamos un mejor posicionamiento de nuestro blog o pagina web, SEO search engine optimization.
+- En internet no vale escribir mal, debemos cuidar nuestro idioma y prestar atención a las formas, ser educados y escribir bien.
+
+
+---------------------------------------------------
+MÓDULO 4 TRABAJO EN EQUIPO Y HERRAMIENTAS GROUPWARE
+---------------------------------------------------
+
+ TRABAJO EN EQUIPO EN UN ENTORNO DIGITAL
+----------------------------------------
+- Grupo vs : Independencia. Las tareas se realizan igualitariamente.
+- Equipo:    Interdependencia, dependo y necesito de otros compañeros.  Las tareas se realizan segun la capacidad y habilidad de la persona.
+- Sinergia: Accion conjunto de todos los miembros del equipo es decir la suma de las partes 2 + 2 = 5 sea mayor.
+
+HERRAMIENTAS COLABORATIVAS EN ENTORNOS DIGITALES
+------------------------------------------------
+- Reducen costos, por ejemplo una reunion por Skype, gasto menos tiempo y dinero en ir y venir.
+- Flexibilidad, no se depende del tiempo ni del espacio.
+- Gestion de conocimiento: Almaceno, apunto, ya el viento no se lleva las palabras.
+- Mayor transparencia: Todo queda grabado y puede mostrarse a los demas.
+- Se dividen en 
+	*** herramientas de comunicacion: 
+		Google Plus, Redes Sociales, blogs, Skype, Hangout
+- 	*** Herramientas de Gestión del Conocimiento:
+		Wikis, Google Drive
+
+PLATAFORMAS DIGITALES INTEGRADAS
+--------------------------------
+- Estas plataformas son tanto para gestion de conocimiento  y redes sociales empresariales.
+- Asi como Google Drive existe, REDBOOTH, YAMMER(Red social Empresarial), BASECAMP que sirven para la gestion de conocimiento, la verdad no usaria ninguno, 
+	interfaces no amigables.
+
+
+- 
