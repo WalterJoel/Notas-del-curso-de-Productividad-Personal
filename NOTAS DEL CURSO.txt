@@ -1,0 +1,142 @@
+--------
+MÓDULO 2
+--------
+
+INFRAESTRUCTURA COMO SERVICIO(IAAS)
+- Es el más maduro versus PAAS, SAAS.
+- La virtualización abstrae a las aplicaciones del Hardware.
+- Se puede elegir cpu, memoria, sistema operativo.
+
+GESTIÓN DE UN SERVICIO CLOUD
+----------------------------
+- El control y la gobernanza debe ser automatizado debido a que se podrían desplegar miles de máquinas
+- Vigilar el rendimiento, el consumo.
+- Si surgen incidencias, puedo resolverlo rápido.
+- Troubleshotting(Solución de Problemas).
+- Una vez más, el consumidor no usa un servicio cloud porque esta de moda, sino porque busca ser más competitivo y agilizar, automatizar
+sus procesos.
+
+PROFUNDIZAMOS HDDC y SDDC
+-------------------------
+- Modelo Hardware Define: Se busca algo muy concreto para cargas de trabajo exigente(puede ser por seguridad, rendimiento, latencias, etc)
+	y por tanto el hardware especifico debe soportar todas estas exigencias.
+
+- Modelo Software Define: Si se utiliza un hardware generico y se busca una plataforma de software permite alojar multiples aplicaciones 
+	siempre y cuando nuestra infraestructura sea eficiente. 
+
+SOFTWARE COMO SERVICIO(SAAS)
+----------------------------
+- Es un servicio cerrado que nos dan al uso, no preguntamos cuanto consume, ni que espacio reservo, ni copas de seguridad de correos, por ejemplo
+	redes sociales, apps corporativas, gestión de fotos, 
+- Abstracción máxima en los servicios de cloud.
+- ***** Cloud First: Si existe un software de SAAS que satisface mis necesidades, la consumo, sino satisface porque mi negocio requiere 
+	algo que no esta disponible, pues bajo un nivel y construyo una aplicacion y servicio pero me abstraigo de la infraestructura,
+	osea no me importa la infraestructura y si tampoco me satisface, bajo un nivel y me construyo una plataforma, una infraestructura
+	a medida para una app en concreta, asi se debe adoptar el modelo cloud.
+PROFUNDIZANDO
+-------------
+¿QUÉ ES UNA API?
+Interfaz de programación de aplicaciones, las API son un medio simplificado para conectar su propia infraestructura a través del desarrollo
+	 de aplicaciones nativas de la nube. Por ejemplo la API de Google Maps, que habilita acceso a sus recursos y al ser publica los 
+	 desarrolladores podrian desarrollar aplicaciones.
+	
+ENTONCES PODEMOS DECIR QUE PAAS CONSUME a IAAS MEDIANTE UNA API 
+
+EL NAVEGADOR COMO HERRAMIENTA PRINCIPAL
+---------------------------------------
+- El uso de un navegador en clave para mensajear, interactuar incluso para herramientas colaborativas, ofimatica y todo evoluciona al navegador
+	porque necesitamos usar algo cuando queramos y donde queramo. Ademas no hay que actualizar nada, ya sean nuevas versiones, etc. De
+	esta forma el usuario solo accede y listo no debe pensar en cómo se desarrolló que arquitectura ni nada, esa abstracción es importante.
+- El navegador es clave para implementar esa abstracción que debe ser sencilla desde el punto de vista del usuario.
+
+CLOUDBROCKERS
+-------------
+-El cloud broker es un agente que actúa como intermediario entre el comprador de un servicio de cloud computing y los vendedores de ese
+	 servicio. Esta figura puede ser de utilidad para ahorrar tiempo a la parte compradora en la búsqueda de la solución más adecuada
+	 y que mejor se adapte a los requisitos de su negocio.(INTERMEDIARIO)
+
+**** LO MÁS INTERESENTE DEL EXAMEN ***
+--------------------------------------
+Los IaaS basan su servicio en la virtualización de servidores, ya que con un software de virtualizacion crean sobre un servidor fisico
+un monton de maquinas virtuales las cuales serán ofrecidas posteriormente a una serie de clientes donde ellos elegiran las capacidades de
+memoria procesamiento, etc.	
+
+-------------------------------- 
+MÓDULO 3 -- "SEGURIDAD EN CLOUD"
+--------------------------------
+
+SEGURIDAD EN CLOUD
+------------------
+- Logicamente la información deja de estar en nuestro propio disco duro o memoria pero tenemos un acceso a mejor tecnología de seguridad, cambia y tenemos
+	facilidades como backups, restore con un click.
+- Algunos proveedores de cloud mejor aun replican tu información en multiples máquinas para mantener la seguridad de la data
+- Entender el contrato es clave, leer que pasara con los datos si pasa algo o si es abundante, etc.
+SEGURIDAD A NIVEL DE USUARIO
+----------------------------
+- Nuevas formas de trabajo, más seguridad.
+- Enviar un PDF por ejemplo, se creó para que no se pueda modificar, de igual forma puedo restringir copia, lectura de archivos y ya no necesito PDF.
+- La autenticación desaparecerá porque te puedes loggear con un solo usuario y contra en varias aplicaciones(SINGLE SING ON(GOOGE SUITE PR )) o generadores de token, o la doble
+	autenticación.
+- A nivel de usuario se nota más los cambios con respecto a la seguridad en cloud.
+
+SEGURIDAD A NIVEL DE EMPRESA
+----------------------------
+- Como empresa se debe tener un plan de gestión bien organizado capaz de implementar un sistema de defensa que actue por perímetro es decir por areas o por capas
+	además de contar con técnicas adicionales de seguridad tales como pensar que ya nos atacaron en un caso hipotetico.
+- Tener en cuentas las NORMAS ISO segun las diciplinas como gestion del riesgo, privacidad de la información, etc
+
+- Hoy en dia, no se trata tanto de solo prevenir ataques, sino tener planes de contingencia antes un ataque posible y como evitar la propagacion del ataque, ya que
+	siempre habran ataques y si solo se invierte en prevenir, puede ser muy peligroso.
+- Actualmente ya no se habla de internet, intranet y extraner, porque todo viene siendo reemplazado por cloud y todos estamos conectados a internet.
+- ** Concepto de Micro Segmentación** Es una forma de aplicar seguridad de manera muy granular o muy dirigida ligada a recursos que se quieren proteger.
+- ** Modelo Zero Trust             ** 
+
+
+------------------------------------------------------------------------
+MÓDULO 4 -- "INNOVACIÓN Y TRANSAFORMACIÓN TECNOLÓGICA DESDE EL USUARIO"
+------------------------------------------------------------------------
+
+CÓMO TRABAJABAMOS ANTES Y CÓMO SE TRABAJA AHORA
+-----------------------------------------------
+- Ahora se quiere maxima disponibilidad de nuestros recursos, es decir que para un trabajador todo este en el navegador, que se encuentre aqui todas sus herramientas
+	que necesita para trabajar
+- Se busca trabajar en tiempo real(por ejemplo google suite en vez de paquete de office). Esto implica un cambio en las personas que estaban acostumbradas a trabajar
+	en el clasico office por ejemplo.
+- Algo interesante y curioso que me gustó, es que el modelo cloud esta volviendo o ya volvio de una u otra forma mas permisibles a los usuarios, puesto que a veces
+	las apps fallan y ya saben que reiniciando la app, todo vuelve a funcionar correctamente(a esto le llaman en el curso una CONSUMERIZACION)
+
+TRABAJAR EN LA NUBE DEMO 
+------------------------
+- Aquí explicaron como usar el google docs, compartir el drive, programar un calendar. 
+
+------------------------------------------------------------------------
+MÓDULO 5 -- "QUÉ NECESITAN Y BUSCAN LAS EMPRESAS"
+------------------------------------------------------------------------
+
+- Si nos orientamos a servicios tenemos que poner el foco en el usuario o cliente, hay que romper los silos tecnológicos y centrarse en el usuario y el 
+	servicio que queremos dar.
+-Siguiente lección
+La movilidad empresarial es mucho más que entregarle un dispositivo móvil a una persona. También es mucho más que, simplemente, renovar plataformas cada 
+	cierto período de tiempo. Consiste en habilitar un proceso y una manera de trabajar en el día a día del negocio. Lo ideal sería trabajar de forma 
+	continua y homogénea. El Cloud afecta a la movilidad como tal y a los servicios que consume el usuario a través de los canales móviles y digitales.
+- Los puestos de trabajo requieren de todas estas consideraciones: ***** facilitar el acceso a un catálogo detallado de procesos, aplicaciones y datos, una experiencia 
+	de usuario óptima (independientemente del dispositivo utilizado) y, por supuesto, la seguridad granular en función del contexto en el que se encuentre
+	 el empleado *****
+- Workplace digital significa que se deben habilitar canales y experiencias digitales para el usuario final bajo un entorno multi-dispositivo y multi-contexto.
+
+                                                                                                                                                                                                                                      
+------------------------------------------------------------------------
+MÓDULO 7  -- "CASOS DE USO"
+------------------------------------------------------------------------
+- En un centro medico, logistica, retail, etc.
+
+------------------------------------------------------------------------
+ -- "CONCLUSIONES" --
+------------------------------------------------------------------------
+- ***** Interoperabilidad ***** sigue pendiente en cloud, porque aun es bidireccional osea cliente y proveedor, no se puede migrar datos entre dos proveedores.
+- Star Audit, permite acreditar personas en cloud, certifica a las empresas proveedoras como si fuera una ISO 9000, brinda partners especializados en diversas
+	areas(training, consultoria, auditoria, etc).
+
+- REPASO DE IDEAS PRINCIPALES
+-----------------------------
+- CLOUD es un modelo y no una tecnologia pero que si se apoya en la tecnologia, se paga por uso. Se divide en nube privada y nube publica.
