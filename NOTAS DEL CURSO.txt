@@ -1,3 +1,4 @@
+
 --------
 MÓDULO 1
 --------
@@ -8,7 +9,7 @@ AUTOCONOCIMIENTO ¿QUIÉN SOY?
 - Una fotografia de nuestro yo, permite conocer mis valores, visión, preferencias, gestión emocional.
 - La visión es el ideal al que tendemos, cual es tu vision de 5 años por ejemplo.
 - Competencias saber hacer y querer hacer.
-- Modelo de Goleman, autoconocimiento, autocontrol, habilidades sociales, empatia. Permite valorarnos en base a ello.
+- Modelo de David Goleman para el, autoconocimiento, autocontrol, habilidades sociales, empatia. Permite valorarnos en base a ello.
 
 QUÉ DESEO Y CÓMO PUEDO LOGRARLO?
 ----------------------------
@@ -21,7 +22,7 @@ EN QUIÉN ME APOYO
 - Pregunta enjuiciadora y no enjuiciadora: Por que hiciste eso VERSUS qué razon te llevo a actuar de esa forma. En la primera pregunta uno se defiende y en la segunda piensas algo
 	que no esta muy disponible en tu cabeza.
 - Conocernos a partir de trabajar en grupo, profesionales como orientadores, coaches, a fin de que no sea aburrido y sea motivador.
-- Mentoring vs Coaching : El mentor te orienta en tu desarrollo profesional, es experto en tu misma rama pero mas experimentado y por eso te guia, el coach te ayuda
+- MENTORING VS COACH : El mentor te orienta en tu desarrollo profesional, es experto en tu misma rama pero mas experimentado y por eso te guia, el coach te ayuda
 	a que te plantees tu mismo tus propias mejoras y que tomes conciencia y lo hace a traves de preguntas no enjuiciadoras.
 
 ---------------------------------------------
@@ -99,4 +100,64 @@ PLATAFORMAS DIGITALES INTEGRADAS
 	interfaces no amigables.
 
 
-- 
+---------------------------------------------------
+MÓDULO 5 GENERACIÓN CREATIVA DE IDEAS
+---------------------------------------------------
+ - CREARIVIDAD E INNOVACION
+---------------------------
+- Innovar es introducir algo nuevo o mejorar algo que ya existe.
+- Creatividad, capacidad para generar ideas que suplan carencias y necesidades.
+- En nuestros proyectos personaes INNOVAR + CREATIVIDAD, nos generara un valor añadido.
+
+
+- ELABORANDO MAPAS MENTALES
+----------------------------
+- UN MAPA MENTAL PERMITE REPRESENTAR IDEAS PALABRAS QUE SE MUEVEN EN TORNO A UNA PALABRA CENTRAL.
+- PUEDO TOMAR NOTAS CON UN MAPA MENTAL.
+
+
+---------------------------------------------------
+MÓDULO 6 HERRAMIENTAS PARA EL ANALISIS DE PROBLEMAS
+---------------------------------------------------
+- EL CONCEPTO DE PROBLEMA Y SU ANALISIS
+---------------------------------------
+- Problema es aquella circunstancia no deseable que debe tener una solución, sino tiene solucion no es un problema.
+- Un problema es una oportunidad de aprendizaje para una persona y para una organización.
+- Para Resilver problemas:
+	 PROACTIVIDAD: Estar dispuesto a resolver problemas
+	 RIESGO:       Se deben gestionar los riesgos mediante un PLAN DE ACCIÓN     
+
+
+---------------------------------------------------
+MÓDULO 7  - GESTIÓN DEL TIEMPO (******************   ESTE MÓDULO APLICARE, ES IMPORTANTE        ***********************)
+---------------------------------------------------
+ PLANIFICAR TAREAS
+-------------------
+- TIENE DOS DIMENSIONES:
+	- IMPORTANCIA: Tareas que nos hacen ser productivos.
+ 	- URGENCIA   : Tareas que requieren ser cumplidas ya.
+Para planificar debo primero: 
+ 1.- Listar tareas y darles importancia ALTA Y BAJA SEGUN(RECOMENDACION QUE SEA SEMANAL)
+ 2.- UBICARLA EN UN CUADRANTE:
+
+
+		  URGENTE          NO URGENTE
+		  -----------------------------
+		|		|
+IMPORTANTE	| HAZLO YA!     |  PLANIFICALO !
+ 		|               |
+		|               |
+NO IMPORTANTE	| DELEGALO      |  BASURA
+
+- PAUTAS PARA COMBATIR LAS INTERRUPCIONES:
+------------------------------------------
+- DISMINUYEN NUESTRA CONCENTRACION Y TARDAMOS UN PROMEDIO DE 10 MINS EN VOLVER A CONCENTRARNOS
+- NOS HACEN TORPES, LENTOS, SE AFECTA NUESTRO HUMOR Y LA PARTE PSICOLOGICA
+	1.- Identificar que nos roba el tiempo: FB, WHATSAP, ETC,.
+	2.- Evitar la navegacion inconciente, usar solo lo que necesitamos.
+	3.- No abrir pestañas que no necesitamos, son tentadoras a verlas a cada rato.
+	4.- Desactivar funciones según.
+---------------------------------------------------
+MÓDULO 8 - PRESENTACIONES IMPORTANTES
+---------------------------------------------------
+  - BASICAMENTE TRATA DE CÓMO PRESENTAR BUENOS SLIDES (--)
